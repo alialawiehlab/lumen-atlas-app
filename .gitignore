@@ -1,0 +1,7 @@
+data.duckdb
+data.duckdb.wal
+*.duckdb
+.cache/
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
